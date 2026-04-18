@@ -1,10 +1,24 @@
 ## Hi there 
 <h1 align="center">Hi 👋, I'm Enam Ahmed</h1>
 <h3 align="center">I am a bioinformatics research enthusiast with a background in health science, food science and nutrition, gut microbiome research, probiotics, and microbiome data analysis. My work combines molecular biology laboratory experiments with bioinformatics and computational analysis.</h3>
+## About Me
+Experienced with molecular biology laboratory experiments, including DNA extraction, RNA extraction, PCR, RT-PCR, ELISA, Gel electrophoresis, Western blotting, and others
+Experienced in microbiology laboratory experiments, including streaking and spreading agar plates, bacteria culturing, safety, and sterility, gram staining, antimicrobial susceptibility, antibiotic resistance, and others.
+Skilled in 16S rRNA sequencing analysis through QIIME2 and DADA2 pipeline.
+Skilled in advanced microbial genomics analysis and metagenomics workflow.
+Hands-on experience with mouse handling
+## Research
+Molecular biology
+Microbiology 
+Gut microbiome
+Health and nutrition
+Bioinformatics
+Metagenomics
+Computational biology
 
-- 🌱 I’m currently learning **Python and Machine Learning application in life science research**
+- I’m currently learning **Python and Machine Learning application in life science research**
 
-- 📫 How to reach me **enama456@gmail.com**
+- How to reach me **enama456@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
