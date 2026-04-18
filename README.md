@@ -1,6 +1,6 @@
 ## Hi there 
 <h1 align="center">Hi 👋, I'm Enam Ahmed</h1>
-<h3 align="center">I am a research enthusiastic with a background in health science, food science and nutrition, gut microbiome research, probiotics, and microbiome data analysis. My work combines molecular biology laboratory experiments with bioinformatics and computational analysis.</h3>
+<h3 align="center">I am a bioinformatics research enthusiast with a background in health science, food science and nutrition, gut microbiome research, probiotics, and microbiome data analysis. My work combines molecular biology laboratory experiments with bioinformatics and computational analysis.</h3>
 
 - 🌱 I’m currently learning **Python and Machine Learning application in life science research**
 
